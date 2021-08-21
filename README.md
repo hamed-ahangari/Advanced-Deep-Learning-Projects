@@ -5,7 +5,7 @@ Projects of Advanced Deep Learning course at University of Tehran
 
 For the semester of Spring 2021 at the [school of ECE](https://ece.ut.ac.ir/en), [University of Tehran](https://ut.ac.ir/en), I worked with [Dr. Mohammad Amin Sadeghi](https://scholar.google.com/citations?user=Viogmi8AAAAJ&hl=en) as Head T.A. of Advanced Deep Learning course.
 
-During those semesters, I collaborated with two other talented teaching assistants, which led to designing three series of projects.
+During the semester, I collaborated with two other talented teaching assistants, which led to designing three series of projects.
 
 ## Content
 In this repository, I'm making those projects available to everyone.
