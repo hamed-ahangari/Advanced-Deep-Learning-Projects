@@ -11,9 +11,9 @@ During those semesters, I collaborated with two other talented teaching assistan
 In this repository, I'm making those projects available to everyone.
 
 Link to projects:
-* [Project #1 : Feature Embeddings and Transfer Learning]()
-* [Project #2 : GAN and VAE models in image and text]()
-* [Project #3 : Unsupervised and Self-supervised Learning]()
+* [Project #1 : Feature Embeddings and Transfer Learning](https://github.com/hamed-ahangari/Advanced-Deep-Learning-Projects/blob/main/Projects/ADL%20-%20Project%20%231.pdf)
+* [Project #2 : GAN and VAE models in image and text](https://github.com/hamed-ahangari/Advanced-Deep-Learning-Projects/blob/main/Projects/ADL%20-%20Project%20%232.pdf)
+* [Project #3 : Unsupervised and Self-supervised Learning](https://github.com/hamed-ahangari/Advanced-Deep-Learning-Projects/blob/main/Projects/ADL%20-%20Project%20%233.pdf)
 
 ## Contact
 
